@@ -1,0 +1,35 @@
+None| 2099-10-18| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2023-10-14| 0:00:04.003960
+Conmutaci�n de tareas| 2023-10-14| 0:00:07.005872
+usage_task.py - GlassClock - Visual Studio Code| 2023-10-14| 0:00:02.001092
+| 2023-10-14| 0:00:03.004103
+config_apps.py - GlassClock - Visual Studio Code| 2023-10-14| 0:00:02.001472
+app.py - GlassClock - Visual Studio Code| 2023-10-14| 0:00:27.026153
+Imagen en imagen| 2023-10-14| 0:00:04.003669
+Nombre del Proyecto: "Monitoreo de Productividad" - Google Chrome| 2023-10-14| 0:00:25.023507
+Nueva pesta�a - Google Chrome| 2023-10-14| 0:00:19.018532
+firebase - Buscar con Google - Google Chrome| 2023-10-14| 0:00:03.002018
+aws lambda - Buscar con Google - Google Chrome| 2023-10-14| 0:01:59.104758
+AWS | Lambda - Gesti�n de recursos inform�ticos - Google Chrome| 2023-10-14| 0:00:07.005579
+AWS Console - Signup - Google Chrome| 2023-10-14| 0:00:27.018924
+console.aws.amazon.com/console/home - Google Chrome| 2023-10-14| 0:00:02.002417
+Amazon Web Services Sign-In - Google Chrome| 2023-10-14| 0:00:16.021374
+console.aws.amazon.com/console/home# - Google Chrome| 2023-10-14| 0:00:01.000980
+us-east-1.console.aws.amazon.com/console/home?region=us-east-1 - Google Chrome| 2023-10-14| 0:00:01.001888
+AWS Management Console - Google Chrome| 2023-10-14| 0:00:01.000623
+P�gina de inicio de la consola | us-east-1 - Google Chrome| 2023-10-14| 0:00:20.015792
+us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1 - Google Chrome| 2023-10-14| 0:00:01.000822
+AWS Lambda console - Google Chrome| 2023-10-14| 0:00:01.001527
+Funciones - Lambda - Google Chrome| 2023-10-14| 0:00:05.002165
+(8) WhatsApp - Google Chrome| 2023-10-14| 0:00:02.000899
+(7) WhatsApp - Google Chrome| 2023-10-14| 0:01:58.103359
+Lambda | us-east-1 - Google Chrome| 2023-10-14| 0:00:06.006299
+validate_use - Lambda - Google Chrome| 2023-10-14| 0:00:31.032302
+Crear una funci�n - Lambda - Google Chrome| 2023-10-14| 0:01:25.075625
+mongodb - Buscar con Google - Google Chrome| 2023-10-14| 0:00:06.020325
+MongoDB: La Plataforma De Datos Para Aplicaciones | MongoDB - Google Chrome| 2023-10-14| 0:00:06.006358
+Pricing | MongoDB - Google Chrome| 2023-10-14| 0:00:32.022971
+MongoDB Atlas | MongoDB - Google Chrome| 2023-10-14| 0:01:19.094818
+Cloud: MongoDB Cloud - Google Chrome| 2023-10-14| 0:00:05.004064
+Verify Email | MongoDB - Google Chrome| 2023-10-14| 0:00:05.002277
+B�squeda| 2023-10-14| 0:00:03.001065
