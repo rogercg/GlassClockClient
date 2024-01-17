@@ -21,8 +21,11 @@ data = {
         'hostname': hostname,
         'ip_address': ip_address,
         'mac_address': mac_address,
-        'user_name': user_name,
-        'company_id': '652b33d66dc78a4ee90ebfbb'
+        'user_name': user_name
+    },
+    'user_info': {
+        'company_id': '652b33d66dc78a4ee90ebfbb',
+        'email': 'gucci@briccode.com'
     }
 }
 

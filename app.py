@@ -53,7 +53,7 @@ def update_report():
         for app, usage in app_usage.items():
             print(app, usage)
             formatted_time = str(timedelta(seconds=usage.total_seconds()))
-            f.write(f'{app}| {end_time.strftime("%Y-%m-%d")}| {formatted_time}\n')
+            f.write(f'{app}| {end_time.strftime("%Y-%m-%d %H:%M:%S")}| {formatted_time}\n')
 
     # Actualizar el último tiempo de actualización
     last_update_time = end_time
