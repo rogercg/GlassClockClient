@@ -1,0 +1,1106 @@
+None| 2024-01-17 09:38:38| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:38:38| 0:02:38.148842
+Conmutaci�n de tareas| 2024-01-17 09:38:38| 0:00:11.006990
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:38:38| 0:00:07.009529
+config_apps.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:38:38| 0:00:03.001566
+save_apps.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:38:38| 0:00:14.008228
+save_log.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:38:38| 0:00:45.022535
+YouTube�Music - Google Chrome| 2024-01-17 09:38:38| 0:00:32.023371
+Lino Rabanal | Microsoft Teams classic - Google Chrome| 2024-01-17 09:38:38| 0:00:02.001846
+| 2024-01-17 09:38:38| 0:00:01.000427
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:38:38| 0:00:19.014966
+report.txt - GlassClockClient - Visual Studio Code| 2024-01-17 09:38:38| 0:00:04.002651
+Out of Control - YouTube�Music - Google Chrome| 2024-01-17 09:38:38| 0:00:04.003020
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 09:38:38| 0:00:03.002307
+ICPNA - Google Chrome| 2024-01-17 09:38:38| 0:01:01.046486
+(7) WhatsApp - Google Chrome| 2024-01-17 09:38:38| 0:00:02.001880
+(6) WhatsApp - Google Chrome| 2024-01-17 09:38:38| 0:00:44.036568
+None| 2024-01-17 09:48:09| 0:00:00
+None| 2024-01-17 09:49:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:49:09| 0:00:03.002889
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:49:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:49:09| 0:00:11.006663
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:49:09| 0:00:08.005843
+| 2024-01-17 09:49:09| 0:00:01.000368
+YouTube Music - Google Chrome| 2024-01-17 09:49:09| 0:00:33.019737
+None| 2024-01-17 09:50:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:50:09| 0:00:03.002889
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:50:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:50:09| 0:00:11.006663
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:50:09| 0:00:42.028372
+| 2024-01-17 09:50:09| 0:00:01.000368
+YouTube Music - Google Chrome| 2024-01-17 09:50:09| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:50:09| 0:00:04.002882
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:50:09| 0:00:04.001664
+None| 2024-01-17 09:51:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:51:09| 0:00:07.005992
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:51:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:51:09| 0:00:11.006663
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:51:09| 0:01:25.060903
+| 2024-01-17 09:51:09| 0:00:01.000368
+YouTube Music - Google Chrome| 2024-01-17 09:51:09| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:51:09| 0:00:05.003024
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:51:09| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:51:09| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:51:09| 0:00:02.000770
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:51:09| 0:00:03.001043
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:51:09| 0:00:04.002022
+None| 2024-01-17 09:52:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:52:09| 0:00:11.007333
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:52:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:52:09| 0:00:12.006972
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:52:09| 0:02:03.083778
+| 2024-01-17 09:52:09| 0:00:02.000963
+YouTube Music - Google Chrome| 2024-01-17 09:52:09| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:52:09| 0:00:06.005179
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:52:09| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:52:09| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:52:09| 0:00:02.000770
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:52:09| 0:00:03.001043
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:52:09| 0:00:04.002022
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:52:09| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:52:09| 0:00:05.003315
+AnyDesk| 2024-01-17 09:52:09| 0:00:08.003755
+None| 2024-01-17 09:53:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:53:09| 0:00:11.007333
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:53:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:53:09| 0:00:13.007365
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:53:09| 0:02:40.115390
+| 2024-01-17 09:53:09| 0:00:02.000963
+YouTube Music - Google Chrome| 2024-01-17 09:53:09| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:53:09| 0:00:06.005179
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:53:09| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:53:09| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:53:09| 0:00:02.000770
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:53:09| 0:00:03.001043
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:53:09| 0:00:04.002022
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:53:09| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:53:09| 0:00:05.003315
+AnyDesk| 2024-01-17 09:53:09| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:53:09| 0:00:21.017284
+None| 2024-01-17 09:54:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:54:09| 0:00:36.023171
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:54:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:54:09| 0:00:14.008106
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:54:09| 0:02:45.118282
+| 2024-01-17 09:54:09| 0:00:03.002044
+YouTube Music - Google Chrome| 2024-01-17 09:54:09| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:54:09| 0:00:06.005179
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:54:09| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:54:09| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:54:09| 0:00:02.000770
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:54:09| 0:00:03.001043
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:54:09| 0:00:04.002022
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:54:09| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:54:09| 0:00:05.003315
+AnyDesk| 2024-01-17 09:54:09| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:54:09| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 09:54:09| 0:00:02.001188
+None| 2024-01-17 09:55:09| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:55:09| 0:00:52.035077
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:55:09| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:55:09| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:55:09| 0:02:46.119275
+| 2024-01-17 09:55:09| 0:00:03.002044
+YouTube Music - Google Chrome| 2024-01-17 09:55:09| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:55:09| 0:00:06.005179
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:55:09| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:55:09| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:55:09| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:55:09| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:55:09| 0:00:08.005016
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:55:09| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:55:09| 0:00:06.003795
+AnyDesk| 2024-01-17 09:55:09| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:55:09| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 09:55:09| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000553
+(7) WhatsApp - Google Chrome| 2024-01-17 09:55:09| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 09:55:09| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 09:55:09| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:55:09| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 09:55:09| 0:00:01.000938
+None| 2024-01-17 09:56:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:56:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:56:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:56:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:56:10| 0:02:46.119275
+| 2024-01-17 09:56:10| 0:00:03.002044
+YouTube Music - Google Chrome| 2024-01-17 09:56:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:56:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:56:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:56:10| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:56:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:56:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:56:10| 0:00:35.325085
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:56:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:56:10| 0:00:06.003795
+AnyDesk| 2024-01-17 09:56:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:56:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 09:56:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000553
+(7) WhatsApp - Google Chrome| 2024-01-17 09:56:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 09:56:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 09:56:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:56:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 09:56:10| 0:00:01.000938
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 09:56:10| 0:00:16.011011
+Búsqueda| 2024-01-17 09:56:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:56:10| 0:00:05.002674
+None| 2024-01-17 09:57:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:57:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:57:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:57:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:57:10| 0:02:46.119275
+| 2024-01-17 09:57:10| 0:00:03.002044
+YouTube Music - Google Chrome| 2024-01-17 09:57:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:57:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:57:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:57:10| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:57:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:57:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:57:10| 0:01:06.344634
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:57:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:57:10| 0:00:06.003795
+AnyDesk| 2024-01-17 09:57:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:57:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 09:57:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000553
+(7) WhatsApp - Google Chrome| 2024-01-17 09:57:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 09:57:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 09:57:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:57:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 09:57:10| 0:00:01.000938
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 09:57:10| 0:00:43.033339
+Búsqueda| 2024-01-17 09:57:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:57:10| 0:00:07.003954
+None| 2024-01-17 09:58:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:58:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:58:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:58:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:58:10| 0:02:46.119275
+| 2024-01-17 09:58:10| 0:00:12.008444
+YouTube Music - Google Chrome| 2024-01-17 09:58:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:58:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:58:10| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:58:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:58:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:58:10| 0:01:12.348368
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:06.003795
+AnyDesk| 2024-01-17 09:58:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:58:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 09:58:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000553
+(7) WhatsApp - Google Chrome| 2024-01-17 09:58:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 09:58:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 09:58:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:58:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 09:58:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 09:58:10| 0:01:00.054427
+Búsqueda| 2024-01-17 09:58:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:58:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 09:58:10| 0:00:06.003057
+Google - Google Chrome| 2024-01-17 09:58:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 09:58:10| 0:00:02.001430
+Google Analytics Academy - Google Chrome| 2024-01-17 09:58:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 09:58:10| 0:00:02.001065
+None| 2024-01-17 09:59:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:59:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 09:59:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 09:59:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 09:59:10| 0:02:46.119275
+| 2024-01-17 09:59:10| 0:00:12.008444
+YouTube Music - Google Chrome| 2024-01-17 09:59:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 09:59:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 09:59:10| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 09:59:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 09:59:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:59:10| 0:01:12.348368
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:06.003795
+AnyDesk| 2024-01-17 09:59:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 09:59:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 09:59:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000553
+(7) WhatsApp - Google Chrome| 2024-01-17 09:59:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 09:59:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 09:59:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 09:59:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 09:59:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 09:59:10| 0:01:00.054427
+Búsqueda| 2024-01-17 09:59:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 09:59:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 09:59:10| 0:00:11.006379
+Google - Google Chrome| 2024-01-17 09:59:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 09:59:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 09:59:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 09:59:10| 0:00:17.010173
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 09:59:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 09:59:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 09:59:10| 0:00:02.000581
+None| 2024-01-17 10:00:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:00:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:00:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:00:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:00:10| 0:02:46.119275
+| 2024-01-17 10:00:10| 0:00:12.008444
+YouTube Music - Google Chrome| 2024-01-17 10:00:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:00:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:00:10| 0:00:03.001509
+ChatGPT - Google Chrome| 2024-01-17 10:00:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:00:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:00:10| 0:02:00.378696
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:00:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:00:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:00:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000553
+(7) WhatsApp - Google Chrome| 2024-01-17 10:00:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:00:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:00:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:00:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:00:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:00:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:00:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:00:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:00:10| 0:00:11.006379
+Google - Google Chrome| 2024-01-17 10:00:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:00:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:00:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:00:10| 0:00:25.014087
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:00:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:00:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:00:10| 0:00:06.014990
+None| 2024-01-17 10:01:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:01:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:01:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:01:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:01:10| 0:03:20.140483
+| 2024-01-17 10:01:10| 0:00:12.008444
+YouTube Music - Google Chrome| 2024-01-17 10:01:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:01:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:01:10| 0:00:04.002068
+ChatGPT - Google Chrome| 2024-01-17 10:01:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:01:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:01:10| 0:02:13.396187
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:01:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:01:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:01:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:01:10| 0:00:13.008718
+(7) WhatsApp - Google Chrome| 2024-01-17 10:01:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:01:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000918
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:01:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:01:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:01:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:01:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:01:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:01:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:01:10| 0:00:11.006379
+Google - Google Chrome| 2024-01-17 10:01:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:01:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:01:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:01:10| 0:00:25.014087
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:01:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:01:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:01:10| 0:00:06.014990
+None| 2024-01-17 10:02:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:02:10| 0:00:58.037581
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:02:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:02:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:02:10| 0:04:09.167150
+| 2024-01-17 10:02:10| 0:00:12.008444
+YouTube Music - Google Chrome| 2024-01-17 10:02:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:02:10| 0:00:10.008152
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:02:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:02:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:02:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:02:10| 0:02:13.396187
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:02:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:02:10| 0:00:47.040447
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:02:10| 0:00:03.001453
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:02:10| 0:00:13.008718
+(7) WhatsApp - Google Chrome| 2024-01-17 10:02:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:02:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:02:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:02:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:02:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:02:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:02:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:02:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:02:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:02:10| 0:00:11.006379
+Google - Google Chrome| 2024-01-17 10:02:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:02:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:02:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:02:10| 0:00:25.014087
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:02:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:02:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:02:10| 0:00:06.014990
+None| 2024-01-17 10:03:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:03:10| 0:01:07.044368
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:03:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:03:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:03:10| 0:04:22.189464
+| 2024-01-17 10:03:10| 0:00:12.008444
+YouTube Music - Google Chrome| 2024-01-17 10:03:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:03:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:03:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:03:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:03:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:03:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:03:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:03:10| 0:00:57.046645
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:03:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:03:10| 0:00:13.008718
+(7) WhatsApp - Google Chrome| 2024-01-17 10:03:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:03:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:03:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:03:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:03:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:03:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:03:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:03:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:03:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:03:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:03:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:03:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:03:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:03:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:03:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:03:10| 0:00:01.000967
+None| 2024-01-17 10:04:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:04:10| 0:01:07.044368
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:04:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:04:10| 0:00:15.008521
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:04:10| 0:05:14.231965
+| 2024-01-17 10:04:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:04:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:04:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:04:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:04:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:04:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:04:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:04:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:04:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:04:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:04:10| 0:00:13.008718
+(7) WhatsApp - Google Chrome| 2024-01-17 10:04:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:04:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:04:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:04:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:04:10| 0:00:07.004537
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:04:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:04:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:04:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:04:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:04:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:04:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:04:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:04:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:04:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:04:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:04:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:04:10| 0:00:03.002218
+None| 2024-01-17 10:05:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:05:10| 0:01:20.050815
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:05:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:05:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:05:10| 0:05:57.267564
+| 2024-01-17 10:05:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:05:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:05:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:05:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:05:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:05:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:05:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:05:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:05:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:05:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:05:10| 0:00:13.008718
+(7) WhatsApp - Google Chrome| 2024-01-17 10:05:10| 0:00:03.001144
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:05:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:05:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:05:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:05:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:05:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:05:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:05:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:05:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:05:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:05:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:05:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:05:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:05:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:05:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:05:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:05:10| 0:00:04.003288
+None| 2024-01-17 10:06:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:06:10| 0:01:41.071695
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:06:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:06:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:06:10| 0:06:30.289014
+| 2024-01-17 10:06:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:06:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:06:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:06:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:06:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:06:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:06:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:06:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:06:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:06:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:06:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:06:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:06:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:06:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:06:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:06:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:06:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:06:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:06:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:06:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:06:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:06:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:06:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:06:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:06:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:06:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:06:10| 0:00:04.003288
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:06:10| 0:00:01.000929
+None| 2024-01-17 10:07:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:07:10| 0:01:41.071695
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:07:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:07:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:07:10| 0:07:30.336555
+| 2024-01-17 10:07:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:07:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:07:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:07:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:07:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:07:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:07:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:07:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:07:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:07:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:07:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:07:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:07:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:07:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:07:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:07:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:07:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:07:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:07:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:07:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:07:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:07:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:07:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:07:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:07:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:07:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:07:10| 0:00:04.003288
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:07:10| 0:00:01.000929
+None| 2024-01-17 10:08:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:08:10| 0:01:41.071695
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:08:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:08:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:08:10| 0:08:30.387568
+| 2024-01-17 10:08:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:08:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:08:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:08:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:08:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:08:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:08:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:08:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:08:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:08:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:08:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:08:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:08:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:08:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:08:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:08:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:08:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:08:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:08:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:08:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:08:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:08:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:08:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:08:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:08:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:08:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:08:10| 0:00:04.003288
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:08:10| 0:00:01.000929
+None| 2024-01-17 10:09:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:09:10| 0:01:41.071695
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:09:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:09:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:09:10| 0:09:30.442177
+| 2024-01-17 10:09:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:09:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:09:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:09:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:09:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:09:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:09:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:09:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:09:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:09:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:09:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:09:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:09:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:09:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:09:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:09:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:09:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:09:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:09:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:09:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:09:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:09:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:09:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:09:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:09:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:09:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:09:10| 0:00:04.003288
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:09:10| 0:00:01.000929
+None| 2024-01-17 10:10:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:10:10| 0:02:28.102298
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:10:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:10:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:10:10| 0:09:43.469561
+| 2024-01-17 10:10:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:10:10| 0:00:51.034377
+Nueva pestaña - Google Chrome| 2024-01-17 10:10:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:10:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:10:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:10:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:10:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:10:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:10:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:10:10| 0:00:12.006509
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:10:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:10:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:10:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:10:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:10:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:10:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:10:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:10:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:10:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:10:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:10:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:10:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:10:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:10:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:10:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:10:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:10:10| 0:00:04.003288
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:10:10| 0:00:01.000929
+None| 2024-01-17 10:11:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:11:10| 0:02:35.115157
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:11:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:11:10| 0:00:17.009397
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:11:10| 0:10:22.490231
+| 2024-01-17 10:11:10| 0:00:13.009296
+YouTube Music - Google Chrome| 2024-01-17 10:11:10| 0:00:52.034837
+Nueva pestaña - Google Chrome| 2024-01-17 10:11:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:11:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:11:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:11:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:11:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:11:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:11:10| 0:01:01.049517
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:11:10| 0:00:25.014567
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:11:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:11:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:11:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:11:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:11:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:11:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:11:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:11:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:11:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:11:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:11:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:11:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:11:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:11:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:11:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:11:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:11:10| 0:00:04.003288
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:11:10| 0:00:01.000929
+None| 2024-01-17 10:12:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:12:10| 0:02:40.118057
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:12:10| 0:00:04.002571
+Conmutación de tareas| 2024-01-17 10:12:10| 0:00:19.010613
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:12:10| 0:10:22.490231
+| 2024-01-17 10:12:10| 0:00:14.009851
+YouTube Music - Google Chrome| 2024-01-17 10:12:10| 0:00:54.035348
+Nueva pestaña - Google Chrome| 2024-01-17 10:12:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:12:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:12:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:12:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:12:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:12:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:12:10| 0:01:08.052508
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:12:10| 0:00:48.041628
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:12:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:12:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:12:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:12:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:12:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:12:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:12:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:12:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:12:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:12:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:12:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:12:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:12:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:12:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:12:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:12:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:12:10| 0:00:24.015158
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:12:10| 0:00:01.000929
+None| 2024-01-17 10:13:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:13:10| 0:02:40.118057
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:13:10| 0:00:07.003913
+Conmutación de tareas| 2024-01-17 10:13:10| 0:00:22.012557
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:13:10| 0:10:22.490231
+| 2024-01-17 10:13:10| 0:00:14.009851
+YouTube Music - Google Chrome| 2024-01-17 10:13:10| 0:00:54.035348
+Nueva pestaña - Google Chrome| 2024-01-17 10:13:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:13:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:13:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:13:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:13:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:13:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:13:10| 0:01:08.052508
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:13:10| 0:00:48.041628
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:13:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:13:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:13:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:13:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:13:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:13:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:13:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:13:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:13:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:13:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:13:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:13:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:13:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:13:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:13:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:13:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:13:10| 0:00:59.054057
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:13:10| 0:00:01.000929
+GlassClockClient| 2024-01-17 10:13:10| 0:00:13.010546
+report.txt: Bloc de notas| 2024-01-17 10:13:10| 0:00:06.003927
+None| 2024-01-17 10:14:10| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:14:10| 0:02:40.118057
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:14:10| 0:00:07.003913
+Conmutación de tareas| 2024-01-17 10:14:10| 0:00:24.013376
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:14:10| 0:11:15.524444
+| 2024-01-17 10:14:10| 0:00:14.009851
+YouTube Music - Google Chrome| 2024-01-17 10:14:10| 0:00:56.036110
+Nueva pestaña - Google Chrome| 2024-01-17 10:14:10| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:14:10| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:14:10| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:14:10| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:14:10| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:06.003795
+AnyDesk| 2024-01-17 10:14:10| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:14:10| 0:01:08.052508
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:14:10| 0:00:48.041628
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:14:10| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:14:10| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:14:10| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:14:10| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:14:10| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:14:10| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:14:10| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:14:10| 0:01:00.054427
+Búsqueda| 2024-01-17 10:14:10| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:14:10| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:14:10| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:14:10| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:14:10| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:14:10| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:14:10| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:14:10| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:14:10| 0:00:59.054057
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:14:10| 0:00:01.000929
+GlassClockClient| 2024-01-17 10:14:10| 0:00:16.030646
+report.txt: Bloc de notas| 2024-01-17 10:14:10| 0:00:06.003927
+None| 2024-01-17 10:15:11| 0:00:00
+C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:15:11| 0:02:52.127620
+app.py - GlassClockClient - Visual Studio Code| 2024-01-17 10:15:11| 0:00:07.003913
+Conmutación de tareas| 2024-01-17 10:15:11| 0:00:25.013863
+[WF Comercial] Mesa de Trabajo - Daily (Reunión) | Microsoft Teams classic - Google Chrome| 2024-01-17 10:15:11| 0:12:00.568292
+| 2024-01-17 10:15:11| 0:00:14.009851
+YouTube Music - Google Chrome| 2024-01-17 10:15:11| 0:00:56.036110
+Nueva pestaña - Google Chrome| 2024-01-17 10:15:11| 0:00:15.010011
+anime de patines - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:04.001664
+(4) Feed | LinkedIn - Google Chrome| 2024-01-17 10:15:11| 0:00:12.021908
+ChatGPT - Google Chrome| 2024-01-17 10:15:11| 0:00:03.001667
+Innovación & Tecnología - Chat - Google Chrome| 2024-01-17 10:15:11| 0:00:08.002808
+Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:15:11| 0:02:17.398337
+nuñes - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:02.000983
+nuñez - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:06.003795
+AnyDesk| 2024-01-17 10:15:11| 0:00:09.015261
+1 468 141 694 - AnyDesk| 2024-01-17 10:15:11| 0:01:08.052508
+Chain - YouTube Music - Google Chrome| 2024-01-17 10:15:11| 0:00:48.041628
+(2) 「PSYCHO-PASS サイコパス」2クール目OPテーマ - YouTube - Google Chrome| 2024-01-17 10:15:11| 0:00:16.009851
+(7) WhatsApp - Google Chrome| 2024-01-17 10:15:11| 0:00:05.002186
+(2) Psycho Pass AMV [名前のない怪物] - YouTube - Google Chrome| 2024-01-17 10:15:11| 0:00:07.002904
+Cuál es mi IP | Cómo saber mi IP pública - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000698
+GlassClock - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000379
+angular 14 toast - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000992
+Angular Toastr - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000839
+Button | Angular Material - Google Chrome| 2024-01-17 10:15:11| 0:00:04.002943
+Acceso: Cuentas de Google - Google Chrome| 2024-01-17 10:15:11| 0:00:01.001032
+TencentARC/PhotoMaker: PhotoMaker - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000219
+icpna virtual - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000130
+ICPNA - Instituto Cultural Peruano Norteamericano - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000229
+ModuleNotFoundError: No module named 'psutil' - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000498
+ModuleNotFoundError: No module named 'psutil' in Python | bobbyhadz - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000928
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py| 2024-01-17 10:15:11| 0:00:08.004949
+Cristina Elizabeth Medina Arbizu te ha enviado un mensaje - Chat - Google Chrome| 2024-01-17 10:15:11| 0:00:02.001361
+Inicia sesión: Cuentas de Google - Google Chrome| 2024-01-17 10:15:11| 0:01:00.054427
+Búsqueda| 2024-01-17 10:15:11| 0:00:02.000909
+Credenciales Google Analytics - rcanchanya@globokas.com - Correo de GLOBOKAS PERU S.A.C. - Google Chrome| 2024-01-17 10:15:11| 0:00:07.003954
+Cuenta de Google - Google Chrome| 2024-01-17 10:15:11| 0:00:14.008410
+Google - Google Chrome| 2024-01-17 10:15:11| 0:00:11.006515
+google analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:05.003099
+google analytics - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:16.019721
+Google Analytics Academy - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000209
+Analytics Academy - Google Chrome| 2024-01-17 10:15:11| 0:00:02.001065
+google analytics panel - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:11.006416
+Google Tag Manager - Google Chrome| 2024-01-17 10:15:11| 0:00:31.018335
+google analytics dashboard - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:07.003670
+Attribution in Google Analytics - Google Chrome| 2024-01-17 10:15:11| 0:00:04.002444
+Google Analytics Solutions Gallery - Google Chrome| 2024-01-17 10:15:11| 0:00:06.014990
+analitycs - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000967
+bloque-tareas.component.html - glass_clock_frontend - Visual Studio Code| 2024-01-17 10:15:11| 0:00:59.054057
+angular material toast - Buscar con Google - Google Chrome| 2024-01-17 10:15:11| 0:00:01.000929
+GlassClockClient| 2024-01-17 10:15:11| 0:00:18.032789
+report.txt: Bloc de notas| 2024-01-17 10:15:11| 0:00:06.003927

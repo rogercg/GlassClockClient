@@ -1,87 +1,80 @@
-import time
-import psutil
-import datetime
-import sys
-import platform
-import pygetwindow as gw
-from datetime import datetime, timedelta    
+from datetime import timedelta
+import tkinter as tk
+from ttkbootstrap import Style
+# from tkinter.tix import Meter
+from tkinter.ttk import Button, Combobox, Entry, Label
+import traceback
+import ttkbootstrap as ttk
+from ttkbootstrap.constants import *
+from datetime import datetime, timedelta
 
-# Diccionario para almacenar el tiempo de uso de cada aplicación
-app_usage = {}
-last_active_app = None
-last_update_time = None
+from collections import defaultdict
 
-# Función para obtener el nombre de la aplicación activa en el frente
-def get_active_window_title():
-    active_window_name = None
-    if sys.platform in ['linux', 'linux2']:
-        try:
-            import subprocess
-            active_window_name = str(subprocess.check_output(["xprop", "-root", "_NET_ACTIVE_WINDOW"]))
-            active_window_pid = str(subprocess.check_output(["xprop", "-id", active_window_name.split()[5], "WM_CLIENT_MACHINE"]))
-            active_window_name = active_window_pid.split('=')[1].split(',')[0].strip(' "')
-        except subprocess.CalledProcessError:
-            pass
-    elif sys.platform in ['Windows', 'win32', 'cygwin']:
-        try:
-            active_window_name = gw.getActiveWindow().title
-        except Exception:
-            pass
-    return active_window_name
 
-start_time = datetime.now()
+class ConfigWindow(tk.Tk):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.geometry("480x350+1000+500")  # Tamaño y posición
+        Style(theme='darkly')  # Tema
 
-# Función para actualizar el reporte
-def update_report():
-    global app_usage, start_time, last_active_app, last_update_time
+        self.title("GlassClock")
 
-    # Calcular cuánto tiempo se gastó en la última aplicación
-    end_time = datetime.now()
-    time_spent = end_time - start_time
+        # Título
+        title_label = Label(self, text="Inicio de sesión", bootstyle="light", font=("Arial", 20))
+        title_label.pack(pady=(10, 0), padx=(10, 10), fill="x")
 
-    # Agregar el tiempo gastado a la aplicación correspondiente en el diccionario de uso de la aplicación
-    if last_active_app in app_usage:
-        app_usage[last_active_app] += time_spent
-    else:
-        app_usage[last_active_app] = time_spent
+        # Descripción
+        description_label = Label(self, text="Su empleador le debe de haber enviado un correo con sus credenciales.", bootstyle="light", font=("Arial", 10))
+        description_label.pack(pady=(10, 10), padx=(10, 10), fill="x")
 
-    # Restablecer el tiempo de inicio para la nueva aplicación
-    start_time = datetime.now()
+        # Título
+        space = Label(self, text="", bootstyle="light", font=("Arial", 10))
+        space.pack(pady=(0, 0), padx=(10, 10), fill="x")
 
-    # Escribir el reporte a un archivo txt
-    with open('report.txt', 'w') as f:
-        for app, usage in app_usage.items():
-            print(app, usage)
-            formatted_time = str(timedelta(seconds=usage.total_seconds()))
-            f.write(f'{app}| {end_time.strftime("%Y-%m-%d %H:%M:%S")}| {formatted_time}\n')
+        # Correo electrónico
+        email_label = Label(self, text="Correo electrónico", bootstyle="light")
+        email_label.pack(fill="x", padx=10)
+        email_entry = Entry(self, bootstyle="secondary")
+        email_entry.pack(pady=(0, 10), padx=10, fill="x")
 
-    # Actualizar el último tiempo de actualización
-    last_update_time = end_time
+        # Contraseña
+        password_label = Label(self, text="Contraseña", bootstyle="light")
+        password_label.pack(fill="x", padx=10)
+        password_entry = Entry(self, bootstyle="secondary", show="*")
+        password_entry.pack(pady=(0, 0), padx=10, fill="x")
 
-while True:
-    # Obtener la aplicación activa actualmente
-    active_app = get_active_window_title()
+        space = Label(self, text="", bootstyle="light", font=("Arial", 10))
+        space.pack(pady=(0, 0), padx=(10, 10), fill="x")
 
-    # Si la aplicación activa ha cambiado
-    if active_app != last_active_app:
-        # Calcular cuánto tiempo se gastó en la última aplicación
-        end_time = datetime.now()
-        time_spent = end_time - start_time
+        # Botones
+        button_frame = tk.Frame(self)
+        button_frame.pack(padx=10, pady=(0, 5), fill="x")
+        login_button = Button(button_frame, text="INGRESAR", bootstyle="success", width=26)
+        login_button.pack(side=tk.LEFT, fill="x", padx=(10, 10), expand=True)
+        cancel_button = Button(button_frame, text="CANCELAR", bootstyle="secondary", width=26)
+        cancel_button.pack(side=tk.RIGHT, fill="x", padx=(10, 10), expand=True)
 
-        # Agregar el tiempo gastado a la aplicación correspondiente en el diccionario de uso de la aplicación
-        if last_active_app in app_usage:
-            app_usage[last_active_app] += time_spent
-        else:
-            app_usage[last_active_app] = time_spent
+        # Enlace para recuperar clave
+        recover_password_label = ttk.Label(self, text="Recuperar clave", bootstyle="light", cursor="hand2")
+        recover_password_label.pack(pady=(5, 0))
+        recover_password_label.bind("<Button-1>", self.on_recover_password_clicked)
 
-        # Restablecer el tiempo de inicio para la nueva aplicación
-        start_time = datetime.now()
+    def on_recover_password_clicked(self, event):
+        # Aquí puedes agregar la lógica para manejar la recuperación de clave
+        print("Recuperar clave clickeado")
 
-    # Actualizar el reporte cada 3 minutos
-    if last_update_time is None or (datetime.now() - last_update_time).total_seconds() >= 60:
-        update_report()
+    def on_closing(self):
+        self.is_listening = False  # Detener el hilo de reconocimiento de audio
+        self.destroy()
 
-    # Actualizar la última aplicación activa
-    last_active_app = active_app
 
-    time.sleep(1)
+if __name__ == "__main__":
+    try:
+        window = ConfigWindow()
+        window.protocol("WM_DELETE_WINDOW", window.on_closing)
+        window.mainloop()
+    except Exception as e:
+        with open('error_log.txt', 'w') as f:
+            f.write(str(e) + "\n")
+            f.write(traceback.format_exc())
+

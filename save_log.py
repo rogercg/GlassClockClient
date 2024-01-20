@@ -11,7 +11,7 @@ mac_address = ':'.join(['{:02x}'.format((uuid.UUID(int=uuid.getnode())).fields[-
 user_name = getpass.getuser()
 
 # Lee el contenido del archivo
-with open('report.txt', 'r') as file:
+with open('report-2-horas.txt', 'r', encoding='utf-8', errors='replace') as file:
     file_content = file.read()
 
 # Prepara los datos para enviar
@@ -34,7 +34,7 @@ json_data = json.dumps(data)
 print(json_data)
 
 # URL del endpoint de tu API
-url = 'https://0dv9jpokia.execute-api.us-east-1.amazonaws.com/glass_clock_register_log'
+url = 'http://localhost:3000/api/register_log'
 
 # Envía una solicitud POST a la API
 response = requests.post(url, json=data)
