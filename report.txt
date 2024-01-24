@@ -1,105 +1,14 @@
-None| 2024-01-21 21:55:44| 0:00:00
-None| 2024-01-21 21:56:46| 0:00:00
-C:\Windows\System32\cmd.exe - python  app.py| 2024-01-21 21:57:46| 0:00:08.009492
-clock.py - GlassClockClient - Visual Studio Code| 2024-01-21 21:57:46| 0:00:25.020897
-Conmutación de tareas| 2024-01-21 21:57:46| 0:00:04.002205
-GlassClock - Google Chrome| 2024-01-21 21:57:46| 0:00:03.002742
-Imagen en imagen| 2024-01-21 21:57:46| 0:00:03.002114
-(3) Un ángel me mostró algo aterrador y me transmitió el último mensaje de Dios │creepypasta│terrror - YouTube - Google Chrome| 2024-01-21 21:57:46| 0:00:07.005036
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 21:57:46| 0:00:03.001147
-YouTube - Google Chrome| 2024-01-21 21:57:46| 0:00:07.005185
-YouTube - Google Chrome| 2024-01-21 21:58:46| 0:00:08.007000
-Nueva pestaña - Google Chrome| 2024-01-21 21:58:46| 0:00:04.003725
-C:\Windows\System32\cmd.exe - python  app.py| 2024-01-21 21:58:46| 0:00:01.000801
-Conmutación de tareas| 2024-01-21 21:58:46| 0:00:04.003822
-GlassClockClient| 2024-01-21 21:58:46| 0:00:07.004449
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 21:58:46| 0:00:14.011245
-ChatGPT - Consistent Character GPT👉🏼 Fast & High Quality⚡️ - Google Chrome| 2024-01-21 21:58:46| 0:00:22.015496
-ChatGPT - Consistent Character GPT👉🏼 Fast & High Quality⚡️ - Google Chrome| 2024-01-21 21:59:46| 0:00:16.020676
-Imagen en imagen| 2024-01-21 21:59:46| 0:00:44.035573
-Imagen en imagen| 2024-01-21 22:00:46| 0:01:00.059457
-Imagen en imagen| 2024-01-21 22:01:46| 0:00:13.019556
-ChatGPT - Consistent Character GPT👉🏼 Fast & High Quality⚡️ - Google Chrome| 2024-01-21 22:01:46| 0:00:47.033737
-ChatGPT - Consistent Character GPT👉🏼 Fast & High Quality⚡️ - Google Chrome| 2024-01-21 22:02:46| 0:00:20.015084
-Conmutación de tareas| 2024-01-21 22:02:46| 0:00:04.001549
-YouTube - Google Chrome| 2024-01-21 22:02:46| 0:00:08.004485
-clock.py - GlassClockClient - Visual Studio Code| 2024-01-21 22:02:46| 0:00:02.001267
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:02:46| 0:00:26.014725
-YouTube - Google Chrome| 2024-01-21 22:03:46| 0:00:01.011341
-ChatGPT - Consistent Character GPT👉🏼 Fast & High Quality⚡️ - Google Chrome| 2024-01-21 22:03:46| 0:00:10.006385
-GlassClock - Google Chrome| 2024-01-21 22:03:46| 0:00:03.002196
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:03:46| 0:00:10.007301
-Conmutación de tareas| 2024-01-21 22:03:46| 0:00:02.000608
-clock.py - GlassClockClient - Visual Studio Code| 2024-01-21 22:03:46| 0:00:04.002787
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 22:03:46| 0:00:30.018582
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 22:04:46| 0:00:29.025736
-clock.py - GlassClockClient - Visual Studio Code| 2024-01-21 22:04:46| 0:00:12.009669
-Conmutación de tareas| 2024-01-21 22:04:46| 0:00:03.001695
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:04:46| 0:00:16.009684
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:05:46| 0:00:34.032406
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 22:05:46| 0:00:01.000568
-YouTube Music - Google Chrome| 2024-01-21 22:05:46| 0:00:04.001755
-(3) Un ángel me mostró algo aterrador y me transmitió el último mensaje de Dios │creepypasta│terrror - YouTube - Google Chrome| 2024-01-21 22:05:46| 0:00:04.003507
-YouTube - Google Chrome| 2024-01-21 22:05:46| 0:00:04.002725
-Pastafarismo - Buscar con Google - Google Chrome| 2024-01-21 22:05:46| 0:00:03.001456
-GlassClock - Google Chrome| 2024-01-21 22:05:46| 0:00:03.001866
-GlassClockApi/utils at fd9cb51f6a61930b76ec4c333b4ee8115ec1cd8f · rogercg/GlassClockApi - Google Chrome| 2024-01-21 22:05:46| 0:00:06.004801
-Nueva pestaña - Google Chrome| 2024-01-21 22:05:46| 0:00:01.000155
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:06:46| 0:01:00.042276
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:07:46| 0:01:00.046567
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:08:46| 0:00:02.005080
-Imagen en imagen| 2024-01-21 22:08:46| 0:00:58.044589
-Imagen en imagen| 2024-01-21 22:09:46| 0:01:00.047411
-Imagen en imagen| 2024-01-21 22:10:46| 0:00:25.024481
-| 2024-01-21 22:10:46| 0:00:02.000890
-Nueva pestaña - Google Chrome| 2024-01-21 22:10:46| 0:00:03.001374
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:10:46| 0:00:30.022522
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:11:46| 0:01:00.049755
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:12:46| 0:01:00.049829
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:13:46| 0:00:10.009979
-Nueva pestaña - Google Chrome| 2024-01-21 22:13:46| 0:00:02.001844
-Conmutación de tareas| 2024-01-21 22:13:46| 0:00:01.000815
-(3) WhatsApp - Google Chrome| 2024-01-21 22:13:46| 0:00:02.002451
-(2) WhatsApp - Google Chrome| 2024-01-21 22:13:46| 0:00:04.002432
-Sin título - Google Chrome| 2024-01-21 22:13:46| 0:00:01.000609
-TikTok - Make Your Day - Google Chrome| 2024-01-21 22:13:46| 0:00:01.001000
-Video de Carolina~ (@carolina.afrofem) relacionado con «12 años de esclavitud» | TikTok - Google Chrome| 2024-01-21 22:13:46| 0:00:20.014677
-Imagen en imagen| 2024-01-21 22:13:46| 0:00:19.014601
-Imagen en imagen| 2024-01-21 22:14:46| 0:00:15.021456
-Video de Carolina~ (@carolina.afrofem) relacionado con «12 años de esclavitud» | TikTok - Google Chrome| 2024-01-21 22:14:46| 0:00:04.002400
-Conmutación de tareas| 2024-01-21 22:14:46| 0:00:01.001004
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:14:46| 0:00:17.011701
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 22:14:46| 0:00:23.019793
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 22:15:46| 0:00:49.038385
-Conmutación de tareas| 2024-01-21 22:15:46| 0:00:05.003311
-Imagen en imagen| 2024-01-21 22:15:46| 0:00:02.001844
-Nueva pestaña - Google Chrome| 2024-01-21 22:15:46| 0:00:02.001526
-Administrador de tareas| 2024-01-21 22:15:46| 0:00:02.001452
-None| 2024-01-21 22:16:49| 0:00:00
-C:\Windows\System32\cmd.exe - python  app.py| 2024-01-21 22:17:49| 0:00:34.035077
-Imagen en imagen| 2024-01-21 22:17:49| 0:00:08.005892
-Conmutación de tareas| 2024-01-21 22:17:49| 0:00:04.002817
-Codificación UTF-8 para archivo - Google Chrome| 2024-01-21 22:17:49| 0:00:03.001886
-YouTube Music - Google Chrome| 2024-01-21 22:17:49| 0:00:02.002508
-(3) Un ángel me mostró algo aterrador y me transmitió el último mensaje de Dios │creepypasta│terrror - YouTube - Google Chrome| 2024-01-21 22:17:49| 0:00:05.003603
-GlassClock - Google Chrome| 2024-01-21 22:17:49| 0:00:03.001262
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:17:49| 0:00:01.000516
-C:\Windows\System32\cmd.exe - python  app.py| 2024-01-21 22:18:49| 0:00:11.015874
-| 2024-01-21 22:18:49| 0:00:01.000486
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:18:49| 0:00:48.033424
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:19:49| 0:01:00.057374
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:20:49| 0:01:00.054857
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:21:49| 0:00:42.036140
-Imagen en imagen| 2024-01-21 22:21:49| 0:00:03.002576
-C:\Windows\System32\cmd.exe - python  app.py| 2024-01-21 22:21:49| 0:00:04.003474
-Video de Carolina~ (@carolina.afrofem) relacionado con «12 años de esclavitud» | TikTok - Google Chrome| 2024-01-21 22:21:49| 0:00:11.010305
-Video de Carolina~ (@carolina.afrofem) relacionado con «12 años de esclavitud» | TikTok - Google Chrome| 2024-01-21 22:22:50| 0:00:40.038884
-(2) WhatsApp - Google Chrome| 2024-01-21 22:22:50| 0:00:10.006965
-Pastafarismo - Buscar con Google - Google Chrome| 2024-01-21 22:22:50| 0:00:01.001339
-YouTube Music - Google Chrome| 2024-01-21 22:22:50| 0:00:01.000660
-Imagen en imagen| 2024-01-21 22:22:50| 0:00:01.001272
-Conmutación de tareas| 2024-01-21 22:22:50| 0:00:01.000795
-C:\Windows\System32\cmd.exe - python  app.py| 2024-01-21 22:22:50| 0:00:02.003100
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:22:50| 0:00:04.002766
-report.txt - GlassClockClient - Visual Studio Code| 2024-01-21 22:23:50| 0:00:53.048642
-Conmutación de tareas| 2024-01-21 22:23:50| 0:00:07.005654
+(2) | Microsoft Teams classic - Google Chrome| 2024-01-23 19:46:40| 0:00:04.015725
+Nueva pestaña - Google Chrome| 2024-01-23 19:46:40| 0:00:05.005285
+microsoft azure - Buscar con Google - Google Chrome| 2024-01-23 19:46:40| 0:00:04.002271
+Servicios de informática en la nube | Microsoft Azure - Google Chrome| 2024-01-23 19:46:40| 0:00:03.001679
+Microsoft Azure - Google Chrome| 2024-01-23 19:46:40| 0:00:02.001625
+Working... - Google Chrome| 2024-01-23 19:46:40| 0:00:02.000774
+Inicio - Microsoft Azure - Google Chrome| 2024-01-23 19:46:40| 0:00:16.013081
+Configuración - Microsoft Azure - Google Chrome| 2024-01-23 19:46:40| 0:00:24.017701
+Configuración - Microsoft Azure - Google Chrome| 2024-01-23 19:47:40| 0:00:04.002514
+(2) | Microsoft Teams classic - Google Chrome| 2024-01-23 19:47:40| 0:00:47.035127
+(6) WhatsApp - Google Chrome| 2024-01-23 19:47:40| 0:00:02.002223
+(2) YouTube - Google Chrome| 2024-01-23 19:47:40| 0:00:03.002578
+Azure-Samples/azure-search-openai-demo: A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. - Google Chrome| 2024-01-23 19:47:40| 0:00:02.001476
+YouTube Music - Google Chrome| 2024-01-23 19:47:40| 0:00:02.000747

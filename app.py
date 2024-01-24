@@ -77,7 +77,7 @@ class AppWindow(tk.Tk):
             # Llama a la función para comenzar el monitoreo
             
             # Iniciar el monitoreo
-            monitoring_thread = self.start_monitoring()
+            monitoring_thread = self.start_monitoring(response)
 
             # Para cerrar la aplicación y el hilo después de 8 horas:
             monitoring_thread.join(timeout=8*3600)  # Tiempo en segundos
@@ -88,8 +88,8 @@ class AppWindow(tk.Tk):
                 monitoring_thread.join()
             
     # Función para iniciar el monitoreo en un hilo
-    def start_monitoring(self):
-        monitoring_thread = threading.Thread(target=monitor_apps, args=(8,))
+    def start_monitoring(self, response):
+        monitoring_thread = threading.Thread(target=monitor_apps, args=(response["data"]["hours_x_day"], response, ))
         monitoring_thread.start()
         return monitoring_thread
 

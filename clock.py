@@ -1,19 +1,27 @@
+import os
 import time
 import psutil
 import datetime
 import sys
 import platform
 import pygetwindow as gw
-from datetime import datetime, timedelta    
+from datetime import datetime, timedelta
+
+from register_log_service import send_report    
 
 # Flag para detener el hilo
 stop_thread = False
 
-def monitor_apps(runtime_hours=8):
+def monitor_apps(runtime_hours=8, data=None):
+    print(data)
     # Diccionario para almacenar el tiempo de uso de cada aplicación
     app_usage = {}
     last_active_app = None
     last_update_time = None
+
+    # Inicializar el tiempo de inicio
+    start_time = datetime.now()
+    last_report_time = start_time  # Inicializar la última hora de reporte
 
     # Función para obtener el nombre de la aplicación activa en el frente
     def get_active_window_title():
@@ -75,6 +83,9 @@ def monitor_apps(runtime_hours=8):
     monitoring_start_time = datetime.now()
     monitoring_end_time = monitoring_start_time + timedelta(hours=runtime_hours)
 
+    print(f'Iniciando monitoreo de aplicaciones por {runtime_hours} horas...')
+    print(monitoring_end_time.strftime("%Y-%m-%d %H:%M:%S"))
+
     while not stop_thread and datetime.now() < monitoring_end_time:
         # Obtener la aplicación activa actualmente
         active_app = get_active_window_title()
@@ -102,6 +113,13 @@ def monitor_apps(runtime_hours=8):
 
         # Actualizar la última aplicación activa
         last_active_app = active_app
+
+        # Verificar si ha pasado una hora desde el último reporte
+        if datetime.now() - last_report_time >= timedelta(hours=0.05):
+            print('Enviando reporte...')
+            send_report(data)  # Llamar a la función send_report
+            last_report_time = datetime.now()  # Actualizar la hora del último reporte
+            
 
         time.sleep(1)
 
