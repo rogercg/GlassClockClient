@@ -1,4 +1,7 @@
 from datetime import timedelta
+import os
+import platform
+import sys
 import threading
 import tkinter as tk
 from ttkbootstrap import Style
@@ -12,43 +15,78 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 from clock import monitor_apps
 
-from login_service import login
+from login_service import activate_clock, login
 
+import pystray
+from pystray import Menu, MenuItem
+
+import pystray
+from pystray import MenuItem as item
+
+from PIL import Image
+
+from monitoring import obtener_estado_monitoreo, start_monitoring
+
+
+
+basedir = None
+
+# Detecta si la aplicación se está ejecutando como un .exe o como un script Python
+if getattr(sys, 'frozen', False):
+    # Si se ejecuta como .exe, usa el directorio temporal de PyInstaller
+    basedir = sys._MEIPASS
+else:
+    basedir = os.path.dirname(__file__)
+
+monitoring_lock = threading.Lock()
 
 class AppWindow(tk.Tk):
     def __init__(self, *args, **kwargs):
+
         super().__init__(*args, **kwargs)
         self.geometry("480x350+1000+500")  # Tamaño y posición
+        self.resizable(False, False)  # No se puede cambiar el tamaño
         Style(theme='darkly')  # Tema
 
         self.title("GlassClock")
 
+        self.icono_bandeja = None
+
+        # self.protocol("WM_DELETE_WINDOW", self.on_closing)
+
+        # Accede al archivo icon.ico usando el directorio 
+        if platform.system() == 'Windows':
+            icon_path = os.path.join(basedir, 'favicon.ico')
+            self.iconbitmap(icon_path)
+        else:
+            icon_path = os.path.join(basedir, 'favicon.xbm')
+
         # Título
         title_label = Label(self, text="Inicio de sesión", bootstyle="light", font=("Arial", 20))
-        title_label.pack(pady=(10, 0), padx=(10, 10), fill="x")
+        title_label.pack(pady=(10, 0), padx=(20, 20), fill="x")
 
         # Descripción
         description_label = Label(self, text="Su empleador le debe de haber enviado un correo con sus credenciales.", bootstyle="light", font=("Arial", 10))
-        description_label.pack(pady=(10, 10), padx=(10, 10), fill="x")
+        description_label.pack(pady=(10, 10), padx=(20, 20), fill="x")
 
         # Título
         space = Label(self, text="", bootstyle="light", font=("Arial", 10))
-        space.pack(pady=(0, 0), padx=(10, 10), fill="x")
+        space.pack(pady=(0, 0), padx=(20, 20), fill="x")
 
         # Correo electrónico
         self.email_label = Label(self, text="Correo electrónico", bootstyle="light")
-        self.email_label.pack(fill="x", padx=10)
+        self.email_label.pack(fill="x", padx=20)
         self.email_entry = Entry(self, bootstyle="secondary")
-        self.email_entry.pack(pady=(0, 10), padx=10, fill="x")
+        self.email_entry.pack(pady=(0, 10), padx=20, fill="x")
 
         # Contraseña
         self.password_label = Label(self, text="Contraseña", bootstyle="light")
-        self.password_label.pack(fill="x", padx=10)
+        self.password_label.pack(fill="x", padx=20)
         self.password_entry = Entry(self, bootstyle="secondary", show="*")
-        self.password_entry.pack(pady=(0, 0), padx=10, fill="x")
+        self.password_entry.pack(pady=(0, 0), padx=20, fill="x")
 
         space = Label(self, text="", bootstyle="light", font=("Arial", 10))
-        space.pack(pady=(0, 0), padx=(10, 10), fill="x")
+        space.pack(pady=(0, 0), padx=(20, 20), fill="x")
 
         # Botones
         button_frame = tk.Frame(self)
@@ -64,6 +102,38 @@ class AppWindow(tk.Tk):
         recover_password_label.pack(pady=(5, 0))
         recover_password_label.bind("<Button-1>", self.on_recover_password_clicked)
     
+    # Acción a realizar cuando se intente cerrar la ventana
+    def on_closing(self):
+        self.withdraw()  # Ocultar la ventana
+        self.create_tray_icon()  # Crear y mostrar el ícono en la bandeja del sistema
+
+    def cerrar_aplicacion(self):
+        if self.icono_bandeja:
+            self.icono_bandeja.stop()  # Detener el ícono de la bandeja
+        self.destroy()  # Cerrar la aplicación
+
+    def create_tray_icon(self):
+        def exit_icon(icon, item):
+            icon.stop()
+            window.quit()  # Termina el bucle principal de tkinter
+            # self.destroy()  # Destruye la ventana
+        
+        def show_window(icon, item):
+            icon.stop()
+            self.icono_bandeja = None  # Resetear el ícono de la bandeja
+            self.after(0, self.deiconify)  # Mostrar la ventana
+        
+        # Cargar la imagen usando PIL
+        image_path = os.path.join(basedir, 'favicon-32x32.png')
+        image = Image.open(image_path)
+        # image = Image.open("favicon-32x32.png")  # Asegúrate de tener un icono adecuado
+        self.icono_bandeja = pystray.Icon("test_icon", image, "Mi Aplicación", menu=pystray.Menu(
+            item('Mostrar', show_window),
+            item('Salir', exit_icon)))
+
+        icon_thread = threading.Thread(target=self.icono_bandeja.run)
+        icon_thread.start()
+    
     def on_login_clicked(self, event):
         # Aquí puedes agregar la lógica para manejar el inicio de sesión
         print("Ingresar clickeado")
@@ -72,34 +142,45 @@ class AppWindow(tk.Tk):
             'password': self.password_entry.get()
         }
         response = login(login_data)
+        activate = activate_clock(response)
+        print("activate:")
+        print(activate)
         if(response):
-            self.destroy()
-            # Llama a la función para comenzar el monitoreo
-            
-            # Iniciar el monitoreo
-            monitoring_thread = self.start_monitoring(response)
+            # self.destroy()
+            self.on_closing()
+            if not obtener_estado_monitoreo() or activate["data"]:
+                # Llama a la función para comenzar el monitoreo            
+                start_monitoring(monitor_apps, response["data"]["hours_x_day"], response, activate["data"], self)
+            else:
+                print("El monitoreo ya está en ejecución.")
 
-            # Para cerrar la aplicación y el hilo después de 8 horas:
-            monitoring_thread.join(timeout=8*3600)  # Tiempo en segundos
+            # # Iniciar el monitoreo
+            # monitoring_thread = start_monitoring(monitor_apps, response["data"]["hours_x_day"], response)
 
-            # Si el hilo sigue vivo después de 8 horas, detenerlo
-            if monitoring_thread.is_alive():
-                monitor_apps.stop_thread = True
-                monitoring_thread.join()
+            # # Para cerrar la aplicación y el hilo después de 8 horas:
+            # monitoring_thread.join(timeout=8*3600)  # Tiempo en segundos
+
+            # # Si el hilo sigue vivo después de 8 horas, detenerlo
+            # if monitoring_thread.is_alive():
+            #     monitor_apps.stop_thread = True
+            #     monitoring_thread.join()
             
     # Función para iniciar el monitoreo en un hilo
-    def start_monitoring(self, response):
-        monitoring_thread = threading.Thread(target=monitor_apps, args=(response["data"]["hours_x_day"], response, ))
-        monitoring_thread.start()
-        return monitoring_thread
+    # def start_monitoring(self, response):
+    #     with monitoring_lock:
+    #         if not hasattr(self, 'monitoring_thread') or not self.monitoring_thread.is_alive():
+    #             self.monitoring_thread = threading.Thread(
+    #                 target=monitor_apps,
+    #                 args=(response["data"]["hours_x_day"], response,)
+    #             )
+    #             self.monitoring_thread.start()
+    #         else:
+    #             print("El monitoreo ya está en ejecución.")
+    #     return self.monitoring_thread
 
     def on_recover_password_clicked(self, event):
         # Aquí puedes agregar la lógica para manejar la recuperación de clave
         print("Recuperar clave clickeado")
-
-    def on_closing(self):
-        self.is_listening = False  # Detener el hilo de reconocimiento de audio
-        self.destroy()
 
 
 if __name__ == "__main__":

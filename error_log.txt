@@ -1,18 +1,9 @@
-type object 'StyleBuilderTTK' has no attribute 'create_link_label_style'
+name 'window' is not defined
 Traceback (most recent call last):
-  File "D:\Proyectos\GlassClock\GlassClockClient\app.py", line 68, in <module>
-    window = ConfigWindow()
-             ^^^^^^^^^^^^^^
-  File "D:\Proyectos\GlassClock\GlassClockClient\app.py", line 53, in __init__
-    recover_password_label = ttk.Label(self, text="Recuperar clave", bootstyle="secondary-link", cursor="hand2")
-                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Proyectos\GlassClock\GlassClockClient\p39\Lib\site-packages\ttkbootstrap\style.py", line 4955, in __init__
-    ttkstyle = Bootstyle.update_ttk_widget_style(
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Proyectos\GlassClock\GlassClockClient\p39\Lib\site-packages\ttkbootstrap\style.py", line 5049, in update_ttk_widget_style
-    builder_method = builder.name_to_method(method_name)
-                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Proyectos\GlassClock\GlassClockClient\p39\Lib\site-packages\ttkbootstrap\style.py", line 1086, in name_to_method
-    func = getattr(StyleBuilderTTK, method_name)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-AttributeError: type object 'StyleBuilderTTK' has no attribute 'create_link_label_style'. Did you mean: 'create_label_style'?
+  File "D:\Proyectos\GlassClock\GlassClockClient\app.py", line 158, in <module>
+    window = AppWindow()
+             ^^^^^^^^^^^
+  File "D:\Proyectos\GlassClock\GlassClockClient\app.py", line 46, in __init__
+    window.protocol("WM_DELETE_WINDOW", self.on_closing)
+    ^^^^^^
+NameError: name 'window' is not defined

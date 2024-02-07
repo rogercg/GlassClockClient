@@ -6,13 +6,16 @@ import sys
 import platform
 import pygetwindow as gw
 from datetime import datetime, timedelta
+from monitoring import actualizar_estado_monitoreo
 
 from register_log_service import send_report    
 
 # Flag para detener el hilo
 stop_thread = False
 
-def monitor_apps(runtime_hours=8, data=None):
+# from app import monitoring_lock
+
+def monitor_apps(runtime_hours=8, data=None, window=None):
     print(data)
     # Diccionario para almacenar el tiempo de uso de cada aplicación
     app_usage = {}
@@ -73,7 +76,7 @@ def monitor_apps(runtime_hours=8, data=None):
             for app, usage in app_usage.items():
                 # print(app, usage)
                 formatted_time = str(timedelta(seconds=usage.total_seconds()))
-                f.write(f'{app}| {end_time.strftime("%Y-%m-%d %H:%M:%S")}| {formatted_time}\n')
+                f.write(f'{app}||| {end_time.strftime("%Y-%m-%d %H:%M:%S")}||| {formatted_time}\n')
         #  Limpiaando el diccionario de uso de la aplicación
         app_usage = {}
 
@@ -124,9 +127,14 @@ def monitor_apps(runtime_hours=8, data=None):
         time.sleep(1)
 
     # Realiza cualquier limpieza necesaria antes de salir
-    clean_up()
+    clean_up(window)
     stop_thread = True
+    
 
-def clean_up():
+def clean_up(window):
+    print(window)
+    actualizar_estado_monitoreo(False)
     # Código para limpiar antes de cerrar el hilo
     print("Limpieza realizada.")
+    # window.cerrar_aplicacion()
+    # window.destroy()
