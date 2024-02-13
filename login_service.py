@@ -8,8 +8,8 @@ import getpass
 import uuid
 
 # URL de tu API para el inicio de sesión y para enviar el reporte
-LOGIN_URL = 'http://localhost:3000/api/signin'
-ACTIVATE_URL = 'http://localhost:3000/api/signin'
+LOGIN_URL = 'https://glass-clock-27bb4a1792ef.herokuapp.com/api/signin'
+ACTIVATE_URL = 'https://glass-clock-27bb4a1792ef.herokuapp.com/api/signin'
 # 'http://localhost:3000/api/signin'
 
 # Datos de inicio de sesión del usuario

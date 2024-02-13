@@ -40,7 +40,7 @@ def send_report(response):
     }
 
     headers = {'Authorization': f'Bearer {response["token"]}'}
-    response = requests.post('http://localhost:3000/api/register_log', json=data, headers=headers)
+    response = requests.post('https://glass-clock-27bb4a1792ef.herokuapp.com/api/register_log', json=data, headers=headers)
     print('Respuesta del servidor:', response.text)
 
     # Borrar el archivo de reporte si el envío fue exitoso

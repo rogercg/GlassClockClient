@@ -5,9 +5,13 @@ import json
 
 estado_monitoreo_archivo = 'status.json'
 
+def detener_ejecucion_monitoreo(stop):
+    with open(estado_monitoreo_archivo, 'w') as archivo:
+        json.dump({'activo': True, 'stop': stop}, archivo)
+
 def actualizar_estado_monitoreo(estado):
     with open(estado_monitoreo_archivo, 'w') as archivo:
-        json.dump({'activo': estado}, archivo)
+        json.dump({'activo': estado, 'stop': False}, archivo)
 
 def obtener_estado_monitoreo():
     if not os.path.exists(estado_monitoreo_archivo):

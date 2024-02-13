@@ -1,15 +1,3 @@
-YouTube Music - Google Chrome||| 2024-02-06 19:17:09||| 0:01:00.061813
-YouTube Music - Google Chrome||| 2024-02-06 19:17:40||| 0:01:00.052746
-YouTube Music - Google Chrome||| 2024-02-06 19:17:47||| 0:01:00.056932
-YouTube Music - Google Chrome||| 2024-02-06 19:17:53||| 0:01:00.057119
-YouTube Music - Google Chrome||| 2024-02-06 19:17:59||| 0:00:54.053621
-None||| 2024-02-06 19:17:59||| 0:00:01.000182
-MongoDB Compass - GlassClock/GlassClock.Actions||| 2024-02-06 19:17:59||| 0:00:05.004259
-YouTube Music - Google Chrome||| 2024-02-06 19:18:09||| 0:00:44.028016
-None||| 2024-02-06 19:18:09||| 0:00:01.000688
-MongoDB Compass - GlassClock/GlassClock.Actions||| 2024-02-06 19:18:09||| 0:00:15.010888
-YouTube Music - Google Chrome||| 2024-02-06 19:18:40||| 0:00:13.013512
-None||| 2024-02-06 19:18:40||| 0:00:01.000675
-MongoDB Compass - GlassClock/GlassClock.Actions||| 2024-02-06 19:18:40||| 0:00:32.022518
-||| 2024-02-06 19:18:40||| 0:00:04.001839
-Administrador de tareas||| 2024-02-06 19:18:40||| 0:00:10.006519
+Seleccionar C:\Windows\System32\cmd.exe - python  app.py||| 2024-02-13 00:29:52||| 0:00:06.008005
+C:\Windows\System32\cmd.exe - python  app.py||| 2024-02-13 00:29:52||| 0:00:19.688672
+||| 2024-02-13 00:29:52||| 0:00:50.647652

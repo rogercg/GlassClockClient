@@ -1,4 +1,5 @@
 from datetime import timedelta
+from functools import partial
 import os
 import platform
 import sys
@@ -25,7 +26,7 @@ from pystray import MenuItem as item
 
 from PIL import Image
 
-from monitoring import obtener_estado_monitoreo, start_monitoring
+from monitoring import detener_ejecucion_monitoreo, obtener_estado_monitoreo, start_monitoring
 
 
 
@@ -101,6 +102,9 @@ class AppWindow(tk.Tk):
         recover_password_label = ttk.Label(self, text="Recuperar clave", bootstyle="light", cursor="hand2")
         recover_password_label.pack(pady=(5, 0))
         recover_password_label.bind("<Button-1>", self.on_recover_password_clicked)
+
+        self.is_stop_monitoring = False
+        self.option_menu_status_change = "Detener"
     
     # Acción a realizar cuando se intente cerrar la ventana
     def on_closing(self):
@@ -110,13 +114,49 @@ class AppWindow(tk.Tk):
     def cerrar_aplicacion(self):
         if self.icono_bandeja:
             self.icono_bandeja.stop()  # Detener el ícono de la bandeja
-        self.destroy()  # Cerrar la aplicación
+        self.destroy()  # Cerrar la 
+        
+    def actualizar_menu_tray_icon(self):
+        if self.is_stop_monitoring:
+            texto_item_monitoreo = "Iniciar"
+        else:
+            texto_item_monitoreo = "Detener"
+
+        # Define las funciones de los ítems del menú aquí dentro para capturar el contexto actual
+        def show_window(icon, item):
+            icon.stop()
+            self.icono_bandeja = None
+            self.after(0, self.deiconify)
+
+        def exit_icon(icon, item):
+            icon.stop()
+            self.quit()
+
+        # Actualiza el menú del ícono de la bandeja
+        self.icono_bandeja.menu = pystray.Menu(
+            item(texto_item_monitoreo, self.detener_monitoreo),
+            item('Mostrar', show_window),
+            item('Salir', exit_icon)
+        )
+
+        # Actualiza el ícono para reflejar los cambios
+        self.icono_bandeja.update_menu()
+
+    
+
+    def detener_monitoreo(self, icon, item):
+        # Detener el monitoreo: modificar el valor de status.json
+        self.is_stop_monitoring = not self.is_stop_monitoring
+        detener_ejecucion_monitoreo(self.is_stop_monitoring)
+        # Llama a actualizar_menu_tray_icon para reflejar el cambio en el menú
+        self.actualizar_menu_tray_icon()
 
     def create_tray_icon(self):
         def exit_icon(icon, item):
             icon.stop()
             window.quit()  # Termina el bucle principal de tkinter
             # self.destroy()  # Destruye la ventana
+        
         
         def show_window(icon, item):
             icon.stop()
@@ -127,9 +167,18 @@ class AppWindow(tk.Tk):
         image_path = os.path.join(basedir, 'favicon-32x32.png')
         image = Image.open(image_path)
         # image = Image.open("favicon-32x32.png")  # Asegúrate de tener un icono adecuado
+        if self.is_stop_monitoring:
+            self.option_menu_status_change = "Iniciar"
+        else:
+            self.option_menu_status_change = "Detener"
+        
+        # menu_item_detener_monitoreo = partial(detener_monitoreo, self)  # Aquí se usa partial para pasar `self`
+
         self.icono_bandeja = pystray.Icon("test_icon", image, "Mi Aplicación", menu=pystray.Menu(
+            item(self.option_menu_status_change, self.detener_monitoreo),
             item('Mostrar', show_window),
             item('Salir', exit_icon)))
+
 
         icon_thread = threading.Thread(target=self.icono_bandeja.run)
         icon_thread.start()

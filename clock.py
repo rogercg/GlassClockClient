@@ -48,6 +48,16 @@ def monitor_apps(runtime_hours=8, data=None, window=None):
     global stop_thread
     end_time = start_time + timedelta(hours=runtime_hours)
 
+    import json
+
+    def check_pause_status():
+        try:
+            with open('status.json', 'r') as file:
+                data = json.load(file)
+                return data.get('stop', False)  # Retorna False como valor predeterminado si 'stop' no existe
+        except FileNotFoundError:
+            return False  # Si no se encuentra el archivo, continúa el monitoreo por defecto
+
     # Función para actualizar el reporte
     def update_report():
         nonlocal start_time  # Declara start_time como nonlocal para acceder a la variable definida en monitor_apps
@@ -90,6 +100,10 @@ def monitor_apps(runtime_hours=8, data=None, window=None):
     print(monitoring_end_time.strftime("%Y-%m-%d %H:%M:%S"))
 
     while not stop_thread and datetime.now() < monitoring_end_time:
+        if check_pause_status():
+            print('Monitoreo pausado...')
+            time.sleep(1)  # Pausa la ejecución por un segundo antes de volver a verificar
+            continue  # Salta el resto del código en el bucle y comienza la siguiente iteración
         # Obtener la aplicación activa actualmente
         active_app = get_active_window_title()
 
