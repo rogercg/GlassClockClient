@@ -5,6 +5,8 @@ import platform
 import sys
 import threading
 import tkinter as tk
+from config_apps import ConfigWindow
+from feedback import FeedbackWindow
 from ttkbootstrap import Style
 # from tkinter.tix import Meter
 from tkinter.ttk import Button, Combobox, Entry, Label
@@ -124,9 +126,10 @@ class AppWindow(tk.Tk):
 
         # Define las funciones de los ítems del menú aquí dentro para capturar el contexto actual
         def show_window(icon, item):
-            icon.stop()
-            self.icono_bandeja = None
-            self.after(0, self.deiconify)
+            # icon.stop()
+            # self.icono_bandeja = None
+            # self.after(0, self.deiconify)
+            self.after(0, self.show_config_window)
 
         def exit_icon(icon, item):
             icon.stop()
@@ -143,6 +146,21 @@ class AppWindow(tk.Tk):
         self.icono_bandeja.update_menu()
 
     
+    def show_config_window(self, response=None):
+        if self.icono_bandeja:
+            self.icono_bandeja.stop()  # Detén el ícono de la bandeja si es necesario
+            self.icono_bandeja = None
+
+        # Crear la ventana post-login
+        post_login_window = FeedbackWindow(response)
+
+        # Forzar a que esté en el frente y activa
+        post_login_window.lift()  # Elevar la ventana sobre otras
+        post_login_window.focus_force()  # Forzar el enfoque
+
+        # Restaurar si está minimizada
+        post_login_window.deiconify()
+
 
     def detener_monitoreo(self, icon, item):
         # Detener el monitoreo: modificar el valor de status.json
@@ -161,7 +179,8 @@ class AppWindow(tk.Tk):
         def show_window(icon, item):
             icon.stop()
             self.icono_bandeja = None  # Resetear el ícono de la bandeja
-            self.after(0, self.deiconify)  # Mostrar la ventana
+            # self.after(0, self.deiconify)  # Mostrar la ventana
+            self.show_config_window()  # Mostrar la nueva vista
         
         # Cargar la imagen usando PIL
         image_path = os.path.join(basedir, 'favicon-32x32.png')
@@ -198,11 +217,14 @@ class AppWindow(tk.Tk):
         if(response):
             # self.destroy()
             self.on_closing()
+            self.withdraw()  # Ocultar la ventana principal (login)
+            self.show_config_window(response)  # Mostrar la nueva vista
             if not obtener_estado_monitoreo() or activate["data"]:
                 # Llama a la función para comenzar el monitoreo            
                 start_monitoring(monitor_apps, response["data"]["hours_x_day"], response, activate["data"], self)
             else:
                 print("El monitoreo ya está en ejecución.")
+                
 
             # # Iniciar el monitoreo
             # monitoring_thread = start_monitoring(monitor_apps, response["data"]["hours_x_day"], response)
