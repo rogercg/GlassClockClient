@@ -192,6 +192,7 @@ class AppWindow(tk.Tk):
         }
         response = login(login_data)
         activate = activate_clock(response)
+        # activate = activate_clock(response)
         print("activate:")
         print(activate)
         if(response):

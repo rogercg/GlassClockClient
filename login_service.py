@@ -8,8 +8,8 @@ import getpass
 import uuid
 
 # URL de tu API para el inicio de sesión y para enviar el reporte
-LOGIN_URL = 'https://glass-clock-27bb4a1792ef.herokuapp.com/api/signin'
-ACTIVATE_URL = 'https://glass-clock-27bb4a1792ef.herokuapp.com/api/signin'
+LOGIN_URL = 'http://localhost:3000/api/signin'
+ACTIVATE_URL = 'http://localhost:3000/api/verifiy_last_log_user'
 # 'http://localhost:3000/api/signin'
 
 # Datos de inicio de sesión del usuario
@@ -33,5 +33,5 @@ def activate_clock(user_data):
         print('data:', response.json())
         return response.json()  # Retorna el token si el inicio de sesión es exitoso
     else:
-        print('Error de inicio de sesión:', response.text)
+        print('Error de activate_clock:', response.text)
         return None

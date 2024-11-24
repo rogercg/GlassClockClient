@@ -1,3 +1,0 @@
-Seleccionar C:\Windows\System32\cmd.exe - python  app.py||| 2024-02-13 00:29:52||| 0:00:06.008005
-C:\Windows\System32\cmd.exe - python  app.py||| 2024-02-13 00:29:52||| 0:00:19.688672
-||| 2024-02-13 00:29:52||| 0:00:50.647652
